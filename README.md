@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align=center>
+  안녕하세요! 함께 일하고 싶은 개발자를 꿈꾸며,<br>
   꾸준함과 성실함을 바탕으로 깊이 있는 개발자가 되기 위해 노력하고 있습니다 🚀
 </p>
 
