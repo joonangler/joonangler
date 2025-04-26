@@ -1,4 +1,6 @@
+<!--
 ## Hi there 👋
+-->
 
 <!--
 **joonangler/joonangler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joonangler&theme=discord-old-blurple&border_radius=16&date_format=%5BY.%5Dn.j&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5F72D1&background=0E1116" height=200 alt="GitHub Streak" />
+</div>
+
+###
