@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joonangler&theme=discord-old-blurple&border_radius=16&date_format=%5BY.%5Dn.j&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5F72D1&background=0E1116" height=200 alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-vmly.vercel.app?user=joonangler&theme=discord-old-blurple&border_radius=16&date_format=%5BY.%5Dn.j&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5F72D1&background=0E1116" height=200 alt="GitHub Streak" />
 </div>
 
 ###
