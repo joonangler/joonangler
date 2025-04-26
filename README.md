@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align=center>
+  꾸준함과 성실함을 바탕으로 깊이 있는 개발자가 되기 위해 노력하고 있습니다 🚀
+</p>
+
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joonangler&theme=discord-old-blurple&border_radius=16&date_format=%5BY.%5Dn.j&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5F72D1&background=0E1116" height=200 alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=joonangler&theme=discord-old-blurple&border_radius=16&date_format=%5BY.%5Dn.j&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5F72D1&background=0E1116" height=240 alt="GitHub Streak" />
 </div>
 
 ###
